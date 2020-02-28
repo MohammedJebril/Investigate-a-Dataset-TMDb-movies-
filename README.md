@@ -9,5 +9,5 @@ This project used TMDb movie Dataset that contains about 10,000 movies collected
   3. Licensing, Authors, and Acknowledgements
   
 # 1. File Description
-  Investigate_a_Dataset.ipynb
-  tmdb-movies.csv
+    Investigate_a_Dataset.ipynb
+    tmdb-movies.csv
