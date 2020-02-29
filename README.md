@@ -11,6 +11,7 @@ This project used TMDb movie Dataset that contains about 10,000 movies collected
   
 # 1. File Description
     Investigate_a_Dataset.ipynb - Jupyter Notebook file containing project code
+    Investigate_a_Dataset.html - html file containing project code
     tmdb-movies.csv - project dataset
     readme.md - This file, describing the contents of this repo
     
